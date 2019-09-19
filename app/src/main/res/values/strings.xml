@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula ListView</string>
+    <string name="text_entrada">Digite um texto</string>
+    <string name="text_bt_az">A-Z</string>
+    <string name="text_bt_za">Z-A</string>
+    <string name="text_bt_inserir">Inserir</string>
+</resources>
